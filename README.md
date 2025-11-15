@@ -15,7 +15,7 @@ Policy Enforcement: Automated compliance checks and guardrails for cloud-native 
 
 ## 📂 Suggested Repo Structure
 
-
+```bash
 DevSecOps-CICD/
 │── pipelines/          # CI/CD workflow definitions
 │── infrastructure/     # IaC templates (Terraform, CloudFormation)
@@ -23,6 +23,7 @@ DevSecOps-CICD/
 │── monitoring/         # Observability configs (Prometheus, Grafana, ELK)
 │── docs/               # Guides, architecture diagrams, and best practices
 │── examples/           # Sample apps and pipeline integrations
+```
 
 ## 🚀 Purpose
 This repo is designed to help engineering teams accelerate delivery while maintaining security and reliability. It serves as a reusable blueprint for building modern, automated, and compliant software delivery pipelines.
